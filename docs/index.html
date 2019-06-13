@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>speaking180</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" title="vue">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/buble.css" title="buble" disabled>
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/dark.css" title="dark" disabled>
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/pure.css" title="pure" disabled>
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+
+  <script src="//unpkg.com/docsify-plugin-codefund/index.js"></script>
+  <script>
+    // 切换主题
+    function changeTheme(title) {
+        console.log(title);
+        Docsify.dom.findAll('[rel="stylesheet"]')
+            .forEach(function (theme) {
+                theme.disabled = theme.title !== title;
+            })
+    }
+  </script>
+</head>
+<body>
+  <!-- 导航栏 -->
+  <nav class="app-nav">
+    <ul>
+        <li><p><a href="http://imtianx.cn/" target="_blank">首页</a></p></li>
+        <li><p><a href="http://imtianx.cn/" target="_blank">博客</a></p></li>
+        <li><p><a href="https://juejin.im/user/570e43f95bbb500050a951fe" target="_blank">掘金</a></p>
+        </li>
+        <li><p>主题</p>
+            <ul>
+                <li><a onclick="changeTheme('vue')">Vue</a></li>
+                <li><a onclick="changeTheme('buble')">Buble</a></li>
+                <li><a onclick="changeTheme('dark')">Dark</a></li>
+                <li><a onclick="changeTheme('pure')">Pure</a></li>
+            </ul>
+        </li>
+    </ul>
+  </nav>
+
+
+  <div id="app">欢迎访问，正在加载中...</div>
+
+  <!-- https://github.com/nieyafei/front-end-interview-js/blob/master/docs/index.html -->
+  <!--  https://angry-swanson-b4e47b.netlify.com/zh-cn/quickstart -->
+  <script>
+      var gitalkConfig = {
+          clientID: 'Iv1.78d8bb9116f6922b',
+          clientSecret: 'bdf7f96cd02c1330d326c3ffffcd78e77fb80b8c',
+          repo: 'speaking180',
+          owner: 'imtianx',
+          admin: ["imtianx"],
+          distractionFreeMode: false
+      };
+
+      window.$docsify = {
+          name: 'speaking180',
+          repo: 'https://github.com/imtianx/speaking180',
+          coverpage: true,      // 封面
+          loadSidebar: true,    // 侧边栏
+          loadSidebar: '_sidebar.md',
+          subMaxLevel: 1,      // 显示侧边栏
+          autoHeader: true,     // 自动添加标题
+          loadNavbar: false,     // 显示导航, _navbar.md
+          mergeNavbar: true,    // 小屏合并导航栏到侧边栏s
+          themeColor: '#0D9D58',     // 主题颜色
+
+          fallbackLanguages: ['fr', 'de'],      // 不存在前后访问
+          notFoundPage: true,     // 404
+          // logo: 'logo.png',
+          
+          // 搜索
+          search: {
+              noData: {
+                  '/': '找不到结果!'
+              },
+              paths: 'auto',
+              placeholder: {
+                  '/': '搜索'
+              },
+              depth: 4,
+          },
+
+          //  gitalk : https://www.nodejs.red/#/tools/docsify?id=%E5%A2%9E%E5%8A%A0%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD
+          plugins: [
+              function (hook, vm) {
+                  hook.doneEach(function () {
+                      var label, domObj, main, divEle, gitalk;
+                      label = vm.route.path.split("/").pop();
+                      domObj = Docsify.dom;
+                      main = domObj.getNode("#main");
+
+                      Array.apply(
+                          null,
+                          document.querySelectorAll("div.gitalk-container")
+                      ).forEach(function (ele) {
+                          ele.remove();
+                      });
+
+                      divEle = domObj.create("div");
+                      divEle.id = "gitalk-container-" + label;
+                      divEle.className = "gitalk-container";
+                      divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
+                      domObj.appendTo(domObj.find(".content"), divEle);
+                      gitalk = new Gitalk(
+                          Object.assign(gitalkConfig, {id: !label ? "home" : label})
+                      );
+                      gitalk.render("gitalk-container-" + label);
+                  });
+              }
+          ]
+
+      }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-kotlin.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-vim.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-json.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-nim.js"></script>
+  
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+</body>
+</html>
