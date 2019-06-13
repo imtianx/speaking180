@@ -10,7 +10,7 @@ titleZh="TITLE_EN"
 temp=""
 formateNo=""
 
-for i in {1..180}
+for i in {3..180}
 do
   if [ ${i} -lt 10 ];
   then
