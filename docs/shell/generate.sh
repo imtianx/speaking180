@@ -3,7 +3,7 @@
 # config file
 templeteFileName="note.md.template"
 sidebarFineName="_sidebar.md"
-configFile="config.json"
+configFile="config_24_80.json"
 
 # templete params
 templete_no="NO"
@@ -12,7 +12,7 @@ templete_title_zh="TITLE_ZH"
 
 
 # init sidebar file
-echo "* **目录**" > ${sidebarFineName};
+# echo "* **目录**" > ${sidebarFineName};
 
 newFile=""
 
