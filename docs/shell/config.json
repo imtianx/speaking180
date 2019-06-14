@@ -1,12 +1,117 @@
 [
     {
         "no": "001",
-        "title_en": "When\\\\`s it due ?",
-        "title_zh": "什么时候截止 ？"
+        "title_en": "When's it due ?",
+        "title_zh": "什么时候截止？"
     },
     {
         "no": "002",
         "title_en": " Tell me a bit abort yourself.",
         "title_zh": "介绍下你自己。"
+    },
+    {
+        "no": "003",
+        "title_en": " When's this rain gonna let up?",
+        "title_zh": "雨什么时候才停？"
+    },
+    {
+        "no": "004",
+        "title_en": " You're a real pain in the neck ,you know ?",
+        "title_zh": "你真让人头大。"
+    },
+    {
+        "no": "005",
+        "title_en": " It's such a waste of time .",
+        "title_zh": "简直就是浪费时间。"
+    },
+    {
+        "no": "006",
+        "title_en": " Wow. What a big boy !",
+        "title_zh": "简直像个大人儿！。"
+    },
+    {
+        "no": "007",
+        "title_en": " You sound horrible !",
+        "title_zh": "听起来你病得挺重的。"
+    },
+    {
+        "no": "008",
+        "title_en": " Come on, spit it out. ",
+        "title_zh": "快点，有话直说。"
+    },
+    {
+        "no": "009",
+        "title_en": " How did you enjoy your stay ,Robinson? ",
+        "title_zh": "Robinson 先生，您在这里住的怎么样?"
+    },
+    {
+        "no": "010",
+        "title_en": " You made these from scrach? ",
+        "title_zh": "你自己从头做的？"
+    },
+    {
+        "no": "011",
+        "title_en": " You know, I'd love to, but I can't. ",
+        "title_zh": "我很想去，但实在没办法。"
+    },
+    {
+        "no": "012",
+        "title_en": " I highly recommemd it. ",
+        "title_zh": "我极力推荐。"
+    },
+    {
+        "no": "013",
+        "title_en": " Go right ahead .",
+        "title_zh": "请便。"
+    },
+    {
+        "no": "014",
+        "title_en": " No way! Get out of here! ",
+        "title_zh": "不可能！别扯淡了！"
+    },
+    {
+        "no": "015",
+        "title_en": " It's kind of hit-or-miss.",
+        "title_zh": "它时好时坏。"
+    },
+    {
+        "no": "016",
+        "title_en": " I have bags under my eyes, don't I ?",
+        "title_zh": "我有眼袋是吗？"
+    },
+    {
+        "no": "017",
+        "title_en": " Nah, she's way out of my league. ",
+        "title_zh": "得了吧，我哪配得上人家呀。"
+    },
+    {
+        "no": "018",
+        "title_en": " He just blew me off.",
+        "title_zh": "他就这么把我给打发了。"
+    },
+    {
+        "no": "019",
+        "title_en": " I'd like to cancel my membership. ",
+        "title_zh": "我要取消健身房会员。"
+    },
+    {
+        "no": "020",
+        "title_en": " OK, well, I'll let you go. ",
+        "title_zh": "好的，那就先聊到这儿。"
+    },
+    {
+        "no": "021",
+        "title_en": " The pace here is a lot slower. ",
+        "title_zh": "这里的生活节奏可真是慢多了。"
+    },
+    {
+        "no": "022",
+        "title_en": " I\\\\ve got goose bumps.",
+        "title_zh": "我起鸡皮疙瘩了。"
+    },
+    {
+        "no": "023",
+        "title_en": " You have my word.",
+        "title_zh": "我向你保证。"
     }
 ]

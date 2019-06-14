@@ -37,12 +37,12 @@ do
   sed -i "" "s/${templete_no}/${no}/g;s/${templete_title_en}/${title_en}/g;s/${templete_title_zh}/${title_zh}/g" ${newFile};
 
   # add file to sidebar
-  echo "  * [${no}.${title_zh}](note/${no}.md)" >> ${sidebarFineName};
+  echo "  * [${no}. ${title_zh}](note/${no}.md)" >> ${sidebarFineName};
 
-  echo "${no} file generated!"
+  echo " >> ：${no} file generated!"
   
 done
 
-echo "---------------------all generated task exectue success !"
+echo " >> : ---------------------all generated task exectue success !"
 
 
