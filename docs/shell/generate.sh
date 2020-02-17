@@ -3,7 +3,7 @@
 # config file
 templeteFileName="note.md.template"
 sidebarFineName="_sidebar.md"
-configFile="config_81_114.json"
+configFile="config_115_180.json"
 
 # templete params
 templete_no="NO"
