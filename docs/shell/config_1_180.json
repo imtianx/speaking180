@@ -1,0 +1,902 @@
+[
+    {
+        "no": "001",
+        "title_en": "When's it due ?",
+        "title_zh": "什么时候截止？"
+    },
+    {
+        "no": "002",
+        "title_en": " Tell me a bit abort yourself.",
+        "title_zh": "介绍下你自己。"
+    },
+    {
+        "no": "003",
+        "title_en": " When's this rain gonna let up?",
+        "title_zh": "雨什么时候才停？"
+    },
+    {
+        "no": "004",
+        "title_en": " You're a real pain in the neck ,you know ?",
+        "title_zh": "你真让人头大。"
+    },
+    {
+        "no": "005",
+        "title_en": " It's such a waste of time .",
+        "title_zh": "简直就是浪费时间。"
+    },
+    {
+        "no": "006",
+        "title_en": " Wow. What a big boy !",
+        "title_zh": "简直像个大人儿！。"
+    },
+    {
+        "no": "007",
+        "title_en": " You sound horrible !",
+        "title_zh": "听起来你病得挺重的。"
+    },
+    {
+        "no": "008",
+        "title_en": " Come on, spit it out. ",
+        "title_zh": "快点，有话直说。"
+    },
+    {
+        "no": "009",
+        "title_en": " How did you enjoy your stay ,Robinson? ",
+        "title_zh": "Robinson 先生，您在这里住的怎么样?"
+    },
+    {
+        "no": "010",
+        "title_en": " You made these from scrach? ",
+        "title_zh": "你自己从头做的？"
+    },
+    {
+        "no": "011",
+        "title_en": " You know, I'd love to, but I can't. ",
+        "title_zh": "我很想去，但实在没办法。"
+    },
+    {
+        "no": "012",
+        "title_en": " I highly recommemd it. ",
+        "title_zh": "我极力推荐。"
+    },
+    {
+        "no": "013",
+        "title_en": " Go right ahead .",
+        "title_zh": "请便。"
+    },
+    {
+        "no": "014",
+        "title_en": " No way! Get out of here! ",
+        "title_zh": "不可能！别扯淡了！"
+    },
+    {
+        "no": "015",
+        "title_en": " It's kind of hit-or-miss.",
+        "title_zh": "它时好时坏。"
+    },
+    {
+        "no": "016",
+        "title_en": " I have bags under my eyes, don't I ?",
+        "title_zh": "我有眼袋是吗？"
+    },
+    {
+        "no": "017",
+        "title_en": " Nah, she's way out of my league. ",
+        "title_zh": "得了吧，我哪配得上人家呀。"
+    },
+    {
+        "no": "018",
+        "title_en": " He just blew me off.",
+        "title_zh": "他就这么把我给打发了。"
+    },
+    {
+        "no": "019",
+        "title_en": " I'd like to cancel my membership. ",
+        "title_zh": "我要取消健身房会员。"
+    },
+    {
+        "no": "020",
+        "title_en": " OK, well, I'll let you go. ",
+        "title_zh": "好的，那就先聊到这儿。"
+    },
+    {
+        "no": "021",
+        "title_en": " The pace here is a lot slower. ",
+        "title_zh": "这里的生活节奏可真是慢多了。"
+    },
+    {
+        "no": "022",
+        "title_en": " I've got goose bumps.",
+        "title_zh": "我起鸡皮疙瘩了。"
+    },
+    {
+        "no": "023",
+        "title_en": " You have my word.",
+        "title_zh": "我向你保证。"
+    },
+    {
+        "no": "024",
+        "title_en": "It happens. Don't worry about it.",
+        "title_zh": "（出错）是常有的事，别担心。"
+    },
+    {
+        "no": "025",
+        "title_en": "You're soaking wet!",
+        "title_zh": "你都湿透了。"
+    },
+    {
+        "no": "026",
+        "title_en": "Sorry to keep you waiting.",
+        "title_zh": "抱歉久等了。"
+    },
+    {
+        "no": "027",
+        "title_en": "I was pleasantly surprised.",
+        "title_zh": "太让我惊喜了。"
+    },
+    {
+        "no": "028",
+        "title_en": "I can definitely relate to that.",
+        "title_zh": "我感同身受，我深有体会。"
+    },
+    {
+        "no": "029",
+        "title_en": "I hope you can join us for dinner.",
+        "title_zh": "我希望你能和我们一起吃晚饭。"
+    },
+    {
+        "no": "030",
+        "title_en": "He always talks big.",
+        "title_zh": "他总是吹牛。"
+    },
+    {
+        "no": "031",
+        "title_en": "Time to call it a night for me.",
+        "title_zh": "今晚我就到此为为止了。"
+    },
+    {
+        "no": "032",
+        "title_en": "You're headed for trouble.",
+        "title_zh": "你会惹上麻烦的。"
+    },
+    {
+        "no": "033",
+        "title_en": "Don't you dear!",
+        "title_zh": "你敢！"
+    },
+    {
+        "no": "034",
+        "title_en": "Who do you think you're talking to? ",
+        "title_zh": "你以为你在跟谁说话？"
+    },
+    {
+        "no": "035",
+        "title_en": "Dude,it's so dope!",
+        "title_zh": "哥们儿，简直帅爆了！"
+    },
+    {
+        "no": "036",
+        "title_en": "Try to get in around nine.",
+        "title_zh": "尽量 9 点左右到。"
+    },
+    {
+        "no": "037",
+        "title_en": "Guys, help me straighten up a little please.",
+        "title_zh": "各位，来帮我打扫下房间。"
+    },
+    {
+        "no": "038",
+        "title_en": "He's a guy from my apartment complex.",
+        "title_zh": "他是我公寓大楼的一个人。"
+    },
+    {
+        "no": "039",
+        "title_en": "So Claire, what do you do ?",
+        "title_zh": "Claire, 你是做什么的？"
+    },
+    {
+        "no": "040",
+        "title_en": "Actually, I'm looking to switch careers.",
+        "title_zh": "实际上，我在考虑转行。"
+    },
+    {
+        "no": "041",
+        "title_en": "Let's drop the subject.",
+        "title_zh": "我们换个话题吧。"
+    },
+    {
+        "no": "042",
+        "title_en": "Easy,man. You will pass.",
+        "title_zh": "放轻松，兄弟，你会过的。"
+    },
+    {
+        "no": "043",
+        "title_en": "I totally slipped my mind.",
+        "title_zh": "我完全忘了这码事了。"
+    },
+    {
+        "no": "044",
+        "title_en": "Get off my case.",
+        "title_zh": "别管我。"
+    },
+    {
+        "no": "045",
+        "title_en": "It's pretty catchy.",
+        "title_zh": "这首歌很上口呢。"
+    },
+    {
+        "no": "046",
+        "title_en": "I'd better lock it up.",
+        "title_zh": "我最好还是锁起来。"
+    },
+    {
+        "no": "047",
+        "title_en": "Give me a second, I've got something to say.",
+        "title_zh": "等等，我有话要说。"
+    },
+    {
+        "no": "048",
+        "title_en": "By the way,you look really young.",
+        "title_zh": "顺便一提，你看起来真年轻啊。"
+    },
+    {
+        "no": "049",
+        "title_en": "Don't judge a person by their apperance.",
+        "title_zh": "不要以貌取人。"
+    },
+    {
+        "no": "050",
+        "title_en": "Can you refresh my memory?",
+        "title_zh": "你能帮我回忆一下吗？"
+    },
+    {
+        "no": "051",
+        "title_en": "How'd you manage to pull that off ?",
+        "title_zh": "你怎么弄到（这么难弄）的？"
+    },
+    {
+        "no": "052",
+        "title_en": "There's some kind of funky odor in here.",
+        "title_zh": "这儿有股臭味。"
+    },
+    {
+        "no": "053",
+        "title_en": "There's nothing good on right now.",
+        "title_zh": "现在没有什么好看的电视。"
+    },
+    {
+        "no": "054",
+        "title_en": "Make sure they've got everythiong.",
+        "title_zh": "确保一定要里外全熟。"
+    },
+    {
+        "no": "055",
+        "title_en": "This place is a complete rip-off.",
+        "title_zh": "这家餐厅是骗人的。"
+    },
+    {
+        "no": "056",
+        "title_en": "My allergies are killing me!",
+        "title_zh": "我的过敏症要把我折磨死了！"
+    },
+    {
+        "no": "057",
+        "title_en": "I'm having chest pains.",
+        "title_zh": "我胸口疼。"
+    },
+    {
+        "no": "058",
+        "title_en": "It took forever to go through customs.",
+        "title_zh": "过海关花了好长时间。"
+    },
+    {
+        "no": "059",
+        "title_en": "I ususlly ware it parted on the side.",
+        "title_zh": "我通常喜欢偏分。"
+    },
+    {
+        "no": "060",
+        "title_en": "There you go, you're all buckled in!",
+        "title_zh": "好了，安全带都系好啦！"
+    },
+    {
+        "no": "061",
+        "title_en": "I got this on sale for only four bucks.",
+        "title_zh": "我买了这个只花了四块钱。"
+    },
+    {
+        "no": "062",
+        "title_en": "I got in an accident and messed up your car.",
+        "title_zh": "我碰上事故了，把你的车撞坏了。"
+    },
+    {
+        "no": "063",
+        "title_en": "I'm still on the fence.",
+        "title_zh": "我还在犹豫中。"
+    },
+    {
+        "no": "064",
+        "title_en": "Are you planning on asking her out?",
+        "title_zh": "你打算约她出去吗？"
+    },
+    {
+        "no": "065",
+        "title_en": "There's a bug buzzing around my head!",
+        "title_zh": "有一只虫子一直在我耳边嗡嗡叫！"
+    },
+    {
+        "no": "066",
+        "title_en": "No, I couldn't possibly. I'm so stuffed.",
+        "title_zh": "我吃不下了，我很撑了。"
+    },
+    {
+        "no": "067",
+        "title_en": "Can you fit me in this afternoon?",
+        "title_zh": "能给我安排在下午么？"
+    },
+    {
+        "no": "068",
+        "title_en": "Think of this as an opportunity.",
+        "title_zh": "你可以把这当做一个机会。"
+    },
+    {
+        "no": "069",
+        "title_en": "My old one's kind of worn-out-looking.",
+        "title_zh": "我的旧手机太破了。"
+    },
+    {
+        "no": "070",
+        "title_en": "Do you have any formal training?",
+        "title_zh": "你受过专业培训吗？"
+    },
+    {
+        "no": "071",
+        "title_en": "Your nose is runny. Come here and let me wipe it.",
+        "title_zh": "你流鼻涕了。过来，我给你擦擦。"
+    },
+    {
+        "no": "072",
+        "title_en": "What's wrong? Does your tummy hurt?",
+        "title_zh": "哪里不舒服？是不是肚子疼？"
+    },
+    {
+        "no": "073",
+        "title_en": "This is like a dream come true for me.",
+        "title_zh": "简直就是美梦成真啊！"
+    },
+    {
+        "no": "074",
+        "title_en": "Ah,I pulled my hamstring.",
+        "title_zh": "啊，我的腿拉伤了。"
+    },
+    {
+        "no": "075",
+        "title_en": "It must be clogged.",
+        "title_zh": "估计是（管道）堵了。"
+    },
+    {
+        "no": "076",
+        "title_en": "Have these been run?",
+        "title_zh": "这些（盘子）都洗过了吗？"
+    },
+    {
+        "no": "077",
+        "title_en": "This was literally the best meal I've ever had.",
+        "title_zh": "这真是我吃过最好吃的。"
+    },
+    {
+        "no": "078",
+        "title_en": "We've actually had to turn away business.",
+        "title_zh": "我们（太忙了）得推掉一些生意。"
+    },
+    {
+        "no": "079",
+        "title_en": "It's never a dull moment.",
+        "title_zh": "一刻也没有消停过。"
+    },
+    {
+        "no": "080",
+        "title_en": "Our subscription to The Times is coming up for renewal.",
+        "title_zh": "我们要续订时报了。"
+    },
+    {
+        "no": "081",
+        "title_en": "Yeah, but then it'll be blocking one of the outlets.",
+        "title_zh": "是嘛，但是这样会挡住一个插座啊。"
+    },
+    {
+        "no": "082",
+        "title_en": "This place is dead.",
+        "title_zh": "这地方死气沉沉的。"
+    },
+    {
+        "no": "083",
+        "title_en": "I need to get my prescription filled, so I'll be back in a while.",
+        "title_zh": "我要去拿药了，很快就回来。"
+    },
+    {
+        "no": "084",
+        "title_en": "Do you want the aisle seat?",
+        "title_zh": "你要靠过道的座位吗？"
+    },
+    {
+        "no": "085",
+        "title_en": "I guess it requires some assembly.",
+        "title_zh": "看来这需要组装。"
+    },
+    {
+        "no": "086",
+        "title_en": "I was wondering if I could exchange them for another pair.",
+        "title_zh": "请问我可以换双手套吗？"
+    },
+    {
+        "no": "087",
+        "title_en": "Can you please swipe your card and enter your PIN number?",
+        "title_zh": "请您刷一下银行卡，然后输入密码。"
+    },
+    {
+        "no": "088",
+        "title_en": "Is there anything in particular you're in the mood for?",
+        "title_zh": "你有什么特别想吃的吗？"
+    },
+    {
+        "no": "089",
+        "title_en": "They're down to four teams now.",
+        "title_zh": "现在只剩下四支球队了。"
+    },
+    {
+        "no": "090",
+        "title_en": "Do you have any recommendations for a nice, balanced red?",
+        "title_zh": "你能给我推荐一款口感均衡的红酒吗？"
+    },
+    {
+        "no": "091",
+        "title_en": "Watch out! Your fingers are going to get caught in the door.",
+        "title_zh": "小心！你的手指要被门夹住了。"
+    },
+    {
+        "no": "092",
+        "title_en": "You can hear the gas coming out when you turn the knob, but it dose't ignite.",
+        "title_zh": "当你旋转旋钮时能听见煤气出来的声音，但是没有点着火。"
+    },
+    {
+        "no": "093",
+        "title_en": "Only 2 left in stock - order soon !",
+        "title_zh": "库存仅 2 件，尽快下单！"
+    },
+    {
+        "no": "094",
+        "title_en": "Can you hold it steady for me?",
+        "title_zh": "能帮我扶稳吗？"
+    },
+    {
+        "no": "095",
+        "title_en": "Pay close attention to the bottom right corner.",
+        "title_zh": "仔细看右下角。"
+    },
+    {
+        "no": "096",
+        "title_en": "I'll have a chef's salad, dressing on the side please.",
+        "title_zh": "我要一份主厨沙拉，酱料分开放。"
+    },
+    {
+        "no": "097",
+        "title_en": "Can you hold it in for a few more minutes ?",
+        "title_zh": "你能再忍几分钟吗？"
+    },
+    {
+        "no": "098",
+        "title_en": "You need to take the express train.",
+        "title_zh": "你需要坐快车。"
+    },
+    {
+        "no": "099",
+        "title_en": "After that, you just have to simmer it for an hour or so.",
+        "title_zh": "之后，你只要大约再炖一个小时。"
+    },
+    {
+        "no": "100",
+        "title_en": "Transfer to the 'R' at 42nd Street.",
+        "title_zh": "在 42 大街站换成地铁 R 线。"
+    },
+    {
+        "no": "101",
+        "title_en": "You seem to be grinding your teeth at night.",
+        "title_zh": "看起来你晚上磨牙。"
+    },
+    {
+        "no": "102",
+        "title_en": "The moment I saw her,it was love at first sight.",
+        "title_zh": "第一眼看到就决定是她了。"
+    },
+    {
+        "no": "103",
+        "title_en": "You're supposed to reapply it every couple of hours.",
+        "title_zh": "你应该每隔几小时再涂一次。"
+    },
+    {
+        "no": "104",
+        "title_en": "The forecast calls for rain.",
+        "title_zh": "天气预报说有雨。"
+    },
+    {
+        "no": "105",
+        "title_en": "All baggage must be stowed in the overhead container.",
+        "title_zh": "所有的行李i需放在头部的行李舱内。"
+    },
+    {
+        "no": "106",
+        "title_en": "Did I leave my camera at your place, by any change?",
+        "title_zh": "我是不是把相机落在你那了？"
+    },
+    {
+        "no": "107",
+        "title_en": "Yes, I'd like to place an order for delivery?",
+        "title_zh": "您好，我想点一份外卖。"
+    },
+    {
+        "no": "108",
+        "title_en": "I forgot to charge it. It's running out off juice.",
+        "title_zh": "我忘记充电了，快没电了。"
+    },
+    {
+        "no": "109",
+        "title_en": "We're abort to take off. I'll call you when I lend.",
+        "title_zh": "我们要起飞了，等我到了之后再给你打电话。"
+    },
+    {
+        "no": "110",
+        "title_en": "We're meeting up to sign the lease later this afternoon.",
+        "title_zh": "我们下午晚些时候就碰面，把租房合同签了。"
+    },
+    {
+        "no": "111",
+        "title_en": "It says not to take it on an empty stomach.",
+        "title_zh": "上面说不能空腹吃。"
+    },
+    {
+        "no": "112",
+        "title_en": "I'd like to send this via registered mail.",
+        "title_zh": "我想寄feng挂号信。"
+    },
+    {
+        "no": "113",
+        "title_en": "Can you at least give me a ballpack?",
+        "title_zh": "你能至少估算个大概吗？"
+    },
+    {
+        "no": "114",
+        "title_en": "The fenfer is a little dented. Otherwise, it's as good as new.",
+        "title_zh": "挡泥板被幢撞凹了。除此之外，它完好如新。"
+    },
+    {
+        "no": "115",
+        "title_en": "Please do not leave your valuables unattended",
+        "title_zh": "请保管好您的贵重物品。"
+    },
+    {
+        "no": "116",
+        "title_en": "I'm headed out of grab some lunch. You want me to pick you up something? ",
+        "title_zh": "我要出门买午饭。你想要我帮你带点什么吗？"
+    },
+    {
+        "no": "117",
+        "title_en": "She can come across as stuck-up aas first.",
+        "title_zh": "开始她看上去似乎挺拽的。"
+    },
+    {
+        "no": "118",
+        "title_en": "this one's quite a bit cheaper...but it has a six hour layover in Lindon.",
+        "title_zh": "这趟航班便宜不上...但中途得在伦敦停留 6 个小时。"
+    },
+    {
+        "no": "119",
+        "title_en": "I could really use a cup of coffe. ",
+        "title_zh": "我真的很想来一杯咖啡。"
+    },
+    {
+        "no": "120",
+        "title_en": "It depends. What are you making?",
+        "title_zh": "看情况吧，你要做什么？"
+    },
+    {
+        "no": "121",
+        "title_en": "He thought he'd just sprained,but it turned out it was fractured.",
+        "title_zh": "他原以为自己只是扭伤了，结果却是骨折了。"
+    },
+    {
+        "no": "122",
+        "title_en": "The video's pretty choppy on my end.",
+        "title_zh": "我这边很卡。"
+    },
+    {
+        "no": "123",
+        "title_en": "I tend to dress a little more conservatively at the office.",
+        "title_zh": "上班时我往往穿的更保守一点。"
+    },
+    {
+        "no": "124",
+        "title_en": "Just keep track of how much you're spending and i'll pay you back.",
+        "title_zh": "先记下来你花了多少钱，我之后给你。"
+    },
+    {
+        "no": "125",
+        "title_en": "It's your turn to take the trash out.",
+        "title_zh": "轮到你去倒垃圾了。"
+    },
+    {
+        "no": "126",
+        "title_en": "Personally, I try to adhere to local customs whenever possible.",
+        "title_zh": "就我个人而言，我会尽可能入乡随俗。"
+    },
+    {
+        "no": "127",
+        "title_en": "They're a little bland, don't you think?",
+        "title_zh": "你不觉得它有点淡吗？"
+    },
+    {
+        "no": "128",
+        "title_en": "Let's just not bother cooking tonight.",
+        "title_zh": "我们今晚就没必要做饭了。"
+    },
+    {
+        "no": "129",
+        "title_en": "I was on the verge of going to sleep at one point.",
+        "title_zh": "我曾一度昏昏欲睡。"
+    },
+    {
+        "no": "130",
+        "title_en": "We need to get this resolved as soon as possible.",
+        "title_zh": "我们需要尽快解决掉这个问题。"
+    },
+    {
+        "no": "131",
+        "title_en": "My glasses are fogging up.",
+        "title_zh": "我的眼镜起雾了。"
+    },
+    {
+        "no": "132",
+        "title_en": "To be honest, that one's a long shot.",
+        "title_zh": "说实话，希望渺茫。"
+    },
+    {
+        "no": "133",
+        "title_en": "Would you consider going into business with me?",
+        "title_zh": "你会考虑和我一起做生意吗？"
+    },
+    {
+        "no": "134",
+        "title_en": "I‘m willing to help you out,but you've got to put forth a little more effort.",
+        "title_zh": "我愿意帮你，但是你自己也得努力一点儿。"
+    },
+    {
+        "no": "135",
+        "title_en": "You can't beat face-to-face communication, you know?",
+        "title_zh": "面对面交流才是最好的方式，你知道吗？"
+    },
+    {
+        "no": "136",
+        "title_en": "Ultimately, it's up to all of us individuals to reduce our carbon footprint.",
+        "title_zh": "总而言之，减少碳足迹是我们每一个人的责任。"
+    },
+    {
+        "no": "137",
+        "title_en": "It's crooked. It's tilting to the right.",
+        "title_zh": "歪了，向右边歪了。"
+    },
+    {
+        "no": "138",
+        "title_en": "I want to try to shed a few pounds and get back in shape.",
+        "title_zh": "我要努力减肥，恢复健美的体型。"
+    },
+    {
+        "no": "139",
+        "title_en": "Are you sure that it's sturdy enough to support your weight?",
+        "title_zh": "你确定椅子足够坚固，可以撑住你吗？"
+    },
+    {
+        "no": "140",
+        "title_en": "I'm thinking we should take the first step in our new cupcake buiness...",
+        "title_zh": "我在想，我们可以迈出我们蛋糕事业的第一步了..."
+    },
+    {
+        "no": "141",
+        "title_en": "Would you mind covering for me while I'm out?",
+        "title_zh": "我请假时你能给我代班吗？"
+    },
+    {
+        "no": "142",
+        "title_en": "No, thanks. Sunscreen makes my skin feel all oily.",
+        "title_zh": "谢谢，不用了，涂了防嗮我的皮肤会油。"
+    },
+    {
+        "no": "143",
+        "title_en": "I can't put up with their incessant bickering.",
+        "title_zh": "我受不了他们没完没了的争吵。"
+    },
+    {
+        "no": "144",
+        "title_en": "We get most major national holidays,two weeks of paid vacation,and I think four stick days.",
+        "title_zh": "大部分重要的法定节假日我们都放假，还有两周的带薪年假，好像还有四天的病假。"
+    },
+    {
+        "no": "145",
+        "title_en": "Let's crack open the window and get some fresh air in here.",
+        "title_zh": "把窗户打开，让新鲜空气进来。"
+    },
+    {
+        "no": "146",
+        "title_en": "I can tolerate the heat ,but I can't stand this humidity!",
+        "title_zh": "我可以忍受热，但实在受不了这种湿热!"
+    },
+    {
+        "no": "147",
+        "title_en": "I need to swing by the office sand drop off a few documents.",
+        "title_zh": "我得顺道去趟办公司送几份文件。"
+    },
+    {
+        "no": "148",
+        "title_en": "My parents set really high standards for me and I haven't always lived up to them.",
+        "title_zh": "爸妈给我指定的标准很高，我并不是一直都能达到。"
+    },
+    {
+        "no": "149",
+        "title_en": "There are people who actually earn a good living as bloggers.",
+        "title_zh": "有些博主真的很赚钱。"
+    },
+    {
+        "no": "150",
+        "title_en": "That seems like a tough field to break into.",
+        "title_zh": "这似乎是个很难进入的领域。"
+    },
+    {
+        "no": "151",
+        "title_en": "You've taken on way too much, You need to scale back.",
+        "title_zh": "你负担太多，需要减负。"
+    },
+    {
+        "no": "152",
+        "title_en": "Let's not get bogged down in the details at this point.",
+        "title_zh": "此时此刻，我们别纠结于细枝末节。"
+    },
+    {
+        "no": "153",
+        "title_en": "We can't take in every stray that comes along.",
+        "title_zh": "我们不能收养遇到的每一只流浪猫。"
+    },
+    {
+        "no": "154",
+        "title_en": "You know me: I'm not one to chitchat on the phone for too long.",
+        "title_zh": "你知道我什么样，我不是那种煲电话粥的人。"
+    },
+    {
+        "no": "155",
+        "title_en": "You can't show up to an interview with scuffed shoes and you shirt untuckked!",
+        "title_zh": "你不能穿着磨坏的鞋子去面试，而且你的衬衫没有塞好！"
+    },
+    {
+        "no": "156",
+        "title_en": "Most importantly,you've got to be passionate abort it.",
+        "title_zh": "最重要的是你得对他满怀热情。"
+    },
+    {
+        "no": "157",
+        "title_en": "That look she gave him sent chills up my spine.",
+        "title_zh": "她看他的那一眼让我脊背发凉。"
+    },
+    {
+        "no": "158",
+        "title_en": "I got mixed up and called my landlord by mistake.",
+        "title_zh": "我犯糊涂了，把电话打到我房东那儿去了。"
+    },
+    {
+        "no": "159",
+        "title_en": "Don't let their pettiness and negativity get to you.",
+        "title_zh": "别为他们的小气和善意心烦。"
+    },
+    {
+        "no": "160",
+        "title_en": "You think you can just go around spending money left and right?",
+        "title_zh": "你觉得你能一直这样大手大脚花钱吗？"
+    },
+    {
+        "no": "161",
+        "title_en": "We've been cooped up in here for too long. Let's go get some fresh air.",
+        "title_zh": "我们在这里呆太久了，出去呼吸点新鲜空气吧。"
+    },
+    {
+        "no": "162",
+        "title_en": "We disaggre over whether or not to send her to private school.",
+        "title_zh": "我们对是否送她去私立学校意见不一。"
+    },
+    {
+        "no": "163",
+        "title_en": "Stop obsessing over it and just post it already!",
+        "title_zh": "别过于在意了，快发出去得了!"
+    },
+    {
+        "no": "164",
+        "title_en": "I bet the meeting this afternoon will be preety short since her's out.",
+        "title_zh": "我敢肯定今天下午的会很快就能结束，因为他不在。"
+    },
+    {
+        "no": "165",
+        "title_en": "You've just got force yourself to sit down and concentrate.",
+        "title_zh": "你必须强迫自己坐下来好好集中注意力。"
+    },
+    {
+        "no": "166",
+        "title_en": "If anything,I have to actively work to put on weight.",
+        "title_zh": "就算要做，我也是需要积极的增重。"
+    },
+    {
+        "no": "167",
+        "title_en": "That comes with a 90-day warranty. Would you like to purchease two-years warranty?",
+        "title_zh": "那产品享有90天保修期，您需要额外购买两年的延长保修期吗？"
+    },
+    {
+        "no": "168",
+        "title_en": "I must say,I've been quite impressed with the quality of the pictures that I've taken with it.",
+        "title_zh": "不得不说，我对他拍出照片的质量印象深刻。"
+    },
+    {
+        "no": "169",
+        "title_en": "She's a tremendous asset to the team, and we've lucky to have here.",
+        "title_zh": "她是我们团队的得力干将，我们很幸运与她共事。"
+    },
+    {
+        "no": "170",
+        "title_en": "This doesn't do it justice at all. You can't possibly capture the ensense of that experience on film.",
+        "title_zh": "这张没有照好，你根本照不出当时感受到的美。"
+    },
+    {
+        "no": "171",
+        "title_en": "Yeah,but then it'll be blocking one of the outlets.",
+        "title_zh": "没错，这个口味得慢慢习惯。"
+    },
+    {
+        "no": "172",
+        "title_en": "My phone bill was even higher than usual this month.",
+        "title_zh": "我这个月的电话费比平时还高。"
+    },
+    {
+        "no": "173",
+        "title_en": "I mostly wear neutral and earth tones.",
+        "title_zh": "我平时穿浅色和大地色系的衣服。"
+    },
+    {
+        "no": "174",
+        "title_en": "It's a nasty habit- bad for your health,expensive,not to mention the odor.",
+        "title_zh": "抽烟这个坏习惯，有害健康，费钱，更别提味道难闻了。"
+    },
+    {
+        "no": "175",
+        "title_en": "I made the equivalent of about thirty bucks an hour. ",
+        "title_zh": "我相当于每小时赚三十块钱。"
+    },
+    {
+        "no": "176",
+        "title_en": "I wound up going over to Tim's place and sleeping on the couch.",
+        "title_zh": "最后我在蒂姆家的沙发上睡了一宿。"
+    },
+    {
+        "no": "177",
+        "title_en": "Word crashed while I was working on it, but luckily I was able to retrieve the file.",
+        "title_zh": "Word 在使用中崩溃了，但幸好我把文档找回来了。"
+    },
+    {
+        "no": "178",
+        "title_en": "You've got to grow a ticker skin if you want to make it in this business.",
+        "title_zh": "想在这一行取得成功，你脸皮得更厚一点。"
+    },
+    {
+        "no": "179",
+        "title_en": "well,it's the thought that counts.",
+        "title_zh": "好吧，有心意就够了。"
+    },
+    {
+        "no": "180",
+        "title_en": "All that hard work and determination really paid off.",
+        "title_zh": "所有的努力和坚持都得到了回报。"
+    }
+]
